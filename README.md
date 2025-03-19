@@ -1,6 +1,6 @@
 # PyGuardian - Python Code Protection Tool
 
-![PyGuardian Logo](assets/pyguardian_logo.png) *(Tambahkan logo jika ada)*
+![PyGuardian Logo](https://cdn.iconscout.com/icon/premium/png-512-thumb/python-11630019-9542588.png?f=webp&w=256) *(Tambahkan logo jika ada)*
 
 ## Deskripsi
 PyGuardian adalah aplikasi desktop modern dengan tampilan "clean glass" yang dirancang untuk melindungi kode Python Anda. Aplikasi ini menyediakan tiga metode perlindungan:
