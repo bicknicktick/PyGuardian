@@ -19,7 +19,7 @@ PyGuardian adalah aplikasi desktop modern dengan tampilan "clean glass" yang dir
 - 📱 **Intuitif** - Antarmuka sederhana dan mudah digunakan
 
 ## Screenshot
-![PyGuardian Screenshot](assets/screenshot.png) *(Tambahkan screenshot aplikasi)*
+![PyGuardian Screenshot](screenshot.png) *(Tambahkan screenshot aplikasi)*
 
 ## Persyaratan
 - Python 3.7 atau lebih baru
