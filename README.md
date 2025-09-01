@@ -32,4 +32,5 @@ PyGuardian adalah aplikasi desktop modern dengan tampilan "clean glass" yang dir
 
 
 
-Developed by WONG © 1993
+Developed by BITZY.ID © 1993
+
